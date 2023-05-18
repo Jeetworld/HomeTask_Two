@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="10722" started-at="2023-05-16T15:54:09 IST" finished-at="2023-05-16T15:54:20 IST">
+  <suite started-at="2023-05-18T19:16:45 IST" name="Suite" finished-at="2023-05-18T19:16:56 IST" duration-ms="11565">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="10722" started-at="2023-05-16T15:54:09 IST" finished-at="2023-05-16T15:54:20 IST">
+    <test started-at="2023-05-18T19:16:45 IST" name="Test" finished-at="2023-05-18T19:16:56 IST" duration-ms="11565">
       <class name="DesignPatterns.FactoryPattern.FactoryDesignTestCaseOne">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:DesignPatterns.FactoryPattern.FactoryDesignTestCaseOne@2641e737]" name="beforeTest" is-config="true" duration-ms="5554" started-at="2023-05-16T15:54:09 IST" finished-at="2023-05-16T15:54:14 IST">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:DesignPatterns.FactoryPattern.FactoryDesignTestCaseOne@4310d43]" started-at="2023-05-18T19:16:45 IST" name="beforeTest" finished-at="2023-05-18T19:16:49 IST" duration-ms="4379" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="verifyBStackDemoAddToCart()[pri:0, instance:DesignPatterns.FactoryPattern.FactoryDesignTestCaseOne@2641e737]" name="verifyBStackDemoAddToCart" duration-ms="3018" started-at="2023-05-16T15:54:14 IST" finished-at="2023-05-16T15:54:17 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyBStackDemoAddToCart -->
-        <test-method status="PASS" signature="verifyBStackDemoLogo()[pri:0, instance:DesignPatterns.FactoryPattern.FactoryDesignTestCaseOne@2641e737]" name="verifyBStackDemoLogo" duration-ms="946" started-at="2023-05-16T15:54:17 IST" finished-at="2023-05-16T15:54:18 IST">
+        <test-method signature="verifyBStackDemoLogo()[pri:0, instance:DesignPatterns.FactoryPattern.FactoryDesignTestCaseOne@4310d43]" started-at="2023-05-18T19:16:49 IST" name="verifyBStackDemoLogo" finished-at="2023-05-18T19:16:56 IST" duration-ms="6938" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyBStackDemoLogo -->
-        <test-method status="PASS" signature="verifyBStackDemoTitle()[pri:0, instance:DesignPatterns.FactoryPattern.FactoryDesignTestCaseOne@2641e737]" name="verifyBStackDemoTitle" duration-ms="454" started-at="2023-05-16T15:54:18 IST" finished-at="2023-05-16T15:54:19 IST">
+        <test-method signature="verifyBStackDemoAddToCart()[pri:0, instance:DesignPatterns.FactoryPattern.FactoryDesignTestCaseOne@4310d43]" started-at="2023-05-18T19:16:49 IST" name="verifyBStackDemoAddToCart" finished-at="2023-05-18T19:16:52 IST" duration-ms="2863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBStackDemoAddToCart -->
+        <test-method signature="verifyBStackDemoTitle()[pri:0, instance:DesignPatterns.FactoryPattern.FactoryDesignTestCaseOne@4310d43]" started-at="2023-05-18T19:16:49 IST" name="verifyBStackDemoTitle" finished-at="2023-05-18T19:16:54 IST" duration-ms="4558" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyBStackDemoTitle -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:DesignPatterns.FactoryPattern.FactoryDesignTestCaseOne@2641e737]" name="afterMethod" is-config="true" duration-ms="694" started-at="2023-05-16T15:54:19 IST" finished-at="2023-05-16T15:54:20 IST">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:DesignPatterns.FactoryPattern.FactoryDesignTestCaseOne@4310d43]" started-at="2023-05-18T19:16:56 IST" name="afterMethod" finished-at="2023-05-18T19:16:56 IST" duration-ms="186" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- DesignPatterns.FactoryPattern.FactoryDesignTestCaseOne -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
