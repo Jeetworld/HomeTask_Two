@@ -1,0 +1,21 @@
+pipeline{
+
+agen any
+stages{
+	stage('checkout'){
+	steps{
+		echo 'checking out from pipeline'
+		}
+}
+	stage('build'){
+	steps{
+		echo 'building out from pipeline'
+		}
+}
+	stage('Archiving'){
+	steps{
+		echo 'Archibing out from pipeline'
+		}
+}
+}
+}
