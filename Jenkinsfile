@@ -1,4 +1,4 @@
-node('main'){
+node('master'){
 
 stage('checkout'){
 echo 'checking out'
